@@ -1,0 +1,10 @@
+# IPUMS extracts must not be redistributed — see DATA.md
+data/*.dat
+data/*.dat.gz
+data/*.csv
+data/*.xml
+data/*.cbk
+
+__pycache__/
+*.pyc
+.DS_Store
