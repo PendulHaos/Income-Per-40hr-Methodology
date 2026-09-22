@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: >-
+  Income per 40 hours: a household-hours-normalised measure of
+  real earnings in the United States, 1975-2024
+message: >-
+  If you use this measure, the derived data, or the methodology,
+  please cite it as below.
+type: dataset
+authors:
+  - name: PendulHaos
+    website: https://www.youtube.com/@pendulhaos
+abstract: >-
+  Standard income statistics count a household with two fulltime
+  earners the same as a household with one, so they are not
+  comparable across a period in which the number of earners per
+  household changed. Income per 40 hours divides household
+  earnings by household hours worked and expresses the result as
+  what one full-time work-year returns, allowing households with
+  different labour supply to be compared directly. Built from
+  Current Population Survey ASEC microdata via IPUMS for income
+  years 1975 through 2024, with full methodology, robustness
+  testing and replication code.
+keywords:
+  - income
+  - wages
+  - labour supply
+  - household economics
+  - Current Population Survey
+  - CPS ASEC
+  - real earnings
+license: CC-BY-4.0
+date-released: '2026-09-22'
+version: '1.0'
+references:
+  - type: database
+    title: IPUMS CPS
+    institution:
+      name: University of Minnesota
+    url: https://www.ipums.org
+    notes: >-
+      Source data provided by the US Census Bureau and the Bureau
+      of Labor Statistics.
